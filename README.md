@@ -2,6 +2,8 @@ pqCLI
 ===
 CLI for ProQuest library service.
 
+**Currently only working for german services!**
+
 ## Installation
 Clone from GIT:<br>
 `git clone https://github.com/js-on/pqCLI.git`
@@ -23,7 +25,7 @@ Make file executable: `chmod +x `
 4.2 if keyring is not used, you have to login each time manually<br>
 5. Enter docID from ProQuest item
 
-hXXps://ebookcentral.proquest.com/lib/XYZ/detail.action?docID=**4568785**&query=%22Incident+Management%22%2C
+hXXps://ebookcentral.proquest.com/lib/**XYZ**/detail.action?docID=**4568785**&query=%22Incident+Management%22%2C
 <br><br>
 
 ## Commands
