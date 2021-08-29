@@ -15,7 +15,8 @@ YELLOW = Fore.YELLOW
 
 BASE_URL = config.base_url
 CONVERT = {
-    "Autoren": "Autor"
+    "Autoren": "Autor",
+    "Herausgeber": "Autor"
 }
 
 
